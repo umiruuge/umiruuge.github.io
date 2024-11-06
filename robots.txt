@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://umiruuge.github.io/HhR/sitemap_index.txt
+Sitemap: https://umiruuge.github.io/bQa/sitemap_index.txt
+Sitemap: https://umiruuge.github.io/oje/sitemap_index.txt
+Sitemap: https://umiruuge.github.io/rli/sitemap_index.txt
